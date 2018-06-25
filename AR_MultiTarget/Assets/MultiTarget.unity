@@ -125,7 +125,11 @@ GameObject:
   - component: {fileID: 33071927}
   m_Layer: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: 16
+=======
+  m_Name: Target_An_nas
+>>>>>>> 04a6a901ae095100580fbe1917000db5ea73a531
 =======
   m_Name: Target_An_nas
 >>>>>>> 04a6a901ae095100580fbe1917000db5ea73a531
@@ -222,6 +226,38 @@ Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+=======
+  m_GameObject: {fileID: 360582975}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.9220648, y: 3.995324, z: -4.214207}
+  m_LocalScale: {x: 4.192469, y: 4.192469, z: 4.192469}
+  m_Children:
+  - {fileID: 587980632}
+  m_Father: {fileID: 373325290}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &373325289
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 373325290}
+  m_Layer: 0
+  m_Name: Marker_An_nas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &373325290
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> 04a6a901ae095100580fbe1917000db5ea73a531
   m_GameObject: {fileID: 373325289}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.9220648, y: -3.995324, z: 4.214207}
